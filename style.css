@@ -1,5 +1,6 @@
 .bo {
     font-weight: bold;
+    background-color: rgb(84, 168, 0);
 }
 #option {
     width: 250px;
@@ -11,6 +12,19 @@
     width: 375px;
     box-sizing: content-box;
 }
-
+.form {
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 30%;
+    border: 3px;
+    padding: 10px;
+}
+.div2 {
+    margin: auto;
+    width: 30%;
+    border: 3px;
+    padding: 10px;
+    font-size: 33px;
+}
 
 
